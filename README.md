@@ -3,12 +3,20 @@ Olympus
 This is a graphics engine developed by four Oregon State University Students in Computer Science. 
 Made for our senior design project, this uses the most recent versions of DirectX and PhysX.
 
-NOTE: While we have improved load times, give it a minute or two to laod.
+Demo Reel:
+Bowling Demo      - http://www.youtube.com/watch?v=ng5tQVGfeWc
+Jenga Demo    		- http://www.youtube.com/watch?v=2yxbq8L0V14
+Point Light Demo 	- http://www.youtube.com/watch?v=W9oUBBAQ8_Y
+
+Note:
+Requires a Windows machine, and preferably a discrete graphics card (DirectX 11 Compatible).
 
 To run:
-1. Requires a Windows machine, and preferably a discrete graphics card (DirectX 11 Compatible).
+1. Download Repo
 2. Delete rainEmitter.apb and RainEmitter.apb (if they exist)
-3. Navigate to Olympus/Olympus/Olympus.exe to run
+3. Compile
+4. If error appears copy the Apex and PhysX DLL's out from Olympus/Olympus  and into Olympus/Released or Olympus/Checked
+5. Copy Olympus/Released/Olympus.exe to Olympus/Olympus/Olympus.exe to run
 
 Controls:
 
